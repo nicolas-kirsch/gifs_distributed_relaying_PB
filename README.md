@@ -1,4 +1,4 @@
-# gifs_distributed_relaying_PB
+# Relay-Based Free Parametrisation of Stable Distributed Operators
 
 Animations accompanying the paper: 8 robots moving to a target formation through terrain with drag patches.
 
